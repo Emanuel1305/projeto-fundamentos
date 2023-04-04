@@ -8,6 +8,8 @@
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
 |Emanuel Victor Marcelo Fagundes|Implementador / Programador|emanuelfafa1313@gmail.com|
+|Henrique Araujo de Oliveira |ESPECIFICADOR DE REQUISITOS / ANALISTA DE REQUISITOS|henriquearaujodeoliveira1@gmail.com|
+
 
 # Sumário
 
