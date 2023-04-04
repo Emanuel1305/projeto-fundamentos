@@ -1,6 +1,6 @@
-<img src='/img/1.png' alt='logo da empresa' width='50px' heidth='50px'/>
+<img src='/img/1.png' alt='logo da empresa' width='150px' heidth='150px'/>
 
-# *FIBONACCI MANAGEMENT SYSTEM*
+# *IF Sabores*
 
 # PROJETO DE SOFTWARE
 
