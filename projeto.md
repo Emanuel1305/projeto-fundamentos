@@ -56,7 +56,7 @@
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Fibonacci Management System_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_If Sabores_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
 
 ## CONCEPÇÃO DO SISTEMA
 
@@ -77,9 +77,8 @@ Foram usados três métodos para que pudessem ser obtidos os requisitos do siste
 
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
-* EaD: Eaducação a Distância
-* Moodle: Ambiente Virtual que hospedará os cursos oferecidos
-* Exame Final: Avaliação destinada aos estudantes que obtiveram média anual inferior à 60 pontos
+* If: Instituto Ferderal
+* IFRO: Intituto Federal de Rondônia
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
@@ -89,15 +88,23 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de uma ferramenta para gerenciamento de aprendizado *(Learning Management System - LMS)*, que possa atender os requisitos da Escola Fibonacci, no fator de educação à distância. O projeto visa auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino.
+O IF Sabores é um site onde temos varias de receitas, com o objetivo de facilitar sua vida na hora de preparar suas receitas.
+
+ Uma gama de diversidade, tanto salgadas quanto doces, tudo que você procurar de diversas localidades do Brasil e no mundo, bolos, tortas, pães, cookie, sorvete e afins.
+
+ Está afim de fazer um bolo de chocolate de liquidificador? Nós temos o jeito de preparo, todos os ingredientes. Tudo o que precisa é encontrado aqui.
+
+Tudo preparado e testado pela nossa equipe altamente qualificada, para melhores resultados.
+
+Além disso, nosso site também oferece dicas e truques para ajudá-lo a melhorar suas habilidades culinárias e aprimorar suas receitas favoritas. Não hesite em entrar em contato conosco pelo nosso SAC se tiver alguma dúvida ou sugestão. Esperamos que você goste de cozinhar conosco!
 O escopo do **produto** pode ser consultado nos [requisitos do software](#requisitos-do-software)
 
 ### FORA DO ESCOPO
 
 Não fazem parte do escopo do projeto:
-* Instalação e configuração do ambiente tecnológico do cliente;
+* Venda de produtos;
 * Treinamento de instalação, configuração, administração e  utilização do sistema;
-* Integração com quaisquer sistemas ou base de dados do ambiente tecnológico do cliente.
+
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
