@@ -1,6 +1,6 @@
 <img src='/img/1.png' alt='logo da empresa' width='150px' heidth='150px'/>
 
-# *Cozinhando com um negão*
+# *IF Sabores*
 
 # PROJETO DE SOFTWARE
 
