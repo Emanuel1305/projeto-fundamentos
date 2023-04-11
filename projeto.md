@@ -11,6 +11,7 @@
 |Henrique Araujo de Oliveira |Especificador de Requisitos / Analista de Requisitos|henriquearaujodeoliveira1@gmail.com|
 |Leonardo Neiva Lopes|Analista de teste|leokjlps@gmail.com|
 |Gabriel Teles de Andrade|Testador de Software|gabrieltelesdeandradett@gmail.com|
+|Luiz Guilhermy Moertti de Oliveira|Coordenador de projeto / Gerente de Projeto|luizguilhermy83302@gmail.com|
 
 # Sumário
 
