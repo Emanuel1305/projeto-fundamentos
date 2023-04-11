@@ -12,7 +12,7 @@
 |Leonardo Neiva Lopes|Analista de teste|leokjlps@gmail.com|
 |Gabriel Teles de Andrade|Testador de Software|gabrieltelesdeandradett@gmail.com|
 |Luiz Guilhermy Moertti de Oliveira|Coordenador de projeto / Gerente de Projeto|luizguilhermy83302@gmail.com|
-
+|Adrielle Morini Freitas|Designer de interface com o usuário|adriellemorini@gmail.com|
 # Sumário
 
 * [RESUMO DO PROJETO](#resumo-do-projeto)
