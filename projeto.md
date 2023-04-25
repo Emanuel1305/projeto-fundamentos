@@ -195,11 +195,11 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001|TABELA|banco de dados extenso, para maior atendimento|
-|RF-002|PESQUISA|um local para o usuário encontrar o item desejado|
-|RF-003|CADASTRO|etapa de identificação de usuário|
-|RF-004|NOTIFICAÇÃO|mensagem informativa ao ser cadastrado no site sobre um novo item|
-|RF-005|RECOMENDAÇÃO|mensagem recomendando um item relacionado as pesquisas recentes|
+|RF-001|TABELA DE RECEITAS|banco de dados extenso, para maior atendimento|
+|RF-002|REALIZAR PESQUISA|um local para o usuário encontrar o item desejado|
+|RF-003|CADASTRO DE USUÁRIO|etapa de identificação de usuário|
+|RF-004|RECEBER NOTIFICAÇÃO|mensagem informativa ao ser cadastrado no site sobre um novo item|
+|RF-005|RECEBER RECOMENDAÇÃO|mensagem recomendando um item relacionado as pesquisas recentes|
 
 
 ## Requisitos Não Funcionais
