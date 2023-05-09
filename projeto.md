@@ -1,8 +1,9 @@
 <img src='/img/1.png' alt='logo da empresa' width='150px' heidth='150px'/>
-# INÍCIO
+
 # *IF Sabores*
 
 # PROJETO DE SOFTWARE
+# INÍCIO
 
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
@@ -178,7 +179,7 @@ Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretor
 # Metodologia Adotada no Desenvolvimento
 
 
-[ [INÍCIO](#início) ]
+[ [INÍCIO](#fibonacci-management-system) ]
 
 # Requisitos do Software
 
@@ -279,6 +280,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 # Diagrama de Sequências
 
 [ [INÍCIO](#fibonacci-management-system) ]
+
+* [INÍCIO](#início)
 
 # Diagrama de Atividades
 
