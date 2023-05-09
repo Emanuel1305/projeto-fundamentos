@@ -190,7 +190,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001|ARMAZENAR RECEITAS|banco de dados extenso, para maior atendimento|
+|RF-001|ARMAZENAR RECEITAS |banco de dados extenso, para maior atendimento|
 |RF-002|REALIZAR PESQUISA|um local para o usuário encontrar o item desejado|
 |RF-003|CADASTRAR USUÁRIOS|etapa de identificação de usuário|
 |RF-004|TRANSMITIR NOTIFICAÇÕES|mensagem informativa ao ser cadastrado no site sobre um novo item|
@@ -202,8 +202,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-001 |Desempenho|Site leve, minimalista, podendo ser executado em qualquer maquina,tanto IOS quanto Android e Windows |
+|RNF-002 |Confiabilidade|Site com produtos e receitas de alta qualidade e confiabilidade, sem chance de erros|
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
