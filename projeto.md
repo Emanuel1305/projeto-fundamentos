@@ -3,7 +3,6 @@
 # *IF Sabores*
 
 # PROJETO DE SOFTWARE
-# INÍCIO
 
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
@@ -281,7 +280,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
-[ [INÍCIO](#projeto-de-software) ]
+[ [INÍCIO](#if-sabores) ]
 
 # Diagrama de Atividades
 
