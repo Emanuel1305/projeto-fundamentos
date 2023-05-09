@@ -281,7 +281,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
-* [INÍCIO](#início)
+[ [INÍCIO](#início) ]
 
 # Diagrama de Atividades
 
