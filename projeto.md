@@ -5,9 +5,10 @@
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
+[emanuelfafa1313@gmail.com](#https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBmXHnZdWLjVGhKVgNlZdSKhdhgmrwwSLTBVnNgwzhhDlBHDwKXNHtRVRskHkcjKFWwBTtC)
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Emanuel Victor Marcelo Fagundes|Implementador / Programador|[[emanuelfafa1313@gmail.com](#https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBmXHnZdWLjVGhKVgNlZdSKhdhgmrwwSLTBVnNgwzhhDlBHDwKXNHtRVRskHkcjKFWwBTtC)]|
+|Emanuel Victor Marcelo Fagundes|Implementador / Programador||
 |Henrique Araujo de Oliveira |Especificador de Requisitos / Analista de Requisitos|henriquearaujodeoliveira1@gmail.com|
 |Leonardo Neiva Lopes|Analista de teste|leokjlps@gmail.com|
 |Gabriel Teles de Andrade|Testador de Software|gabrieltelesdeandradett@gmail.com|
