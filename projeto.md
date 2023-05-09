@@ -51,7 +51,7 @@
 | BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#if-sabores) ]
 
 # INTRODUÇÃO
 
@@ -76,7 +76,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 * If: Instituto Ferderal
 * IFRO: Intituto Federal de Rondônia
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#if-sabores) ]
 
 # DESCRIÇÃO GERAL
 
@@ -173,12 +173,12 @@ Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conserv
 Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#if-sabores) ]
 
 # Metodologia Adotada no Desenvolvimento
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#if-sabores) ]
 
 # Requisitos do Software
 
@@ -220,7 +220,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-002 |Confiabilidade|Site com produtos e receitas de alta qualidade e confiabilidade, sem chance de erros|
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#if-sabores) ]
 
 
 # Prototipagem
@@ -229,7 +229,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ![Imagem do Protótipo](/img/home.png)
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#if-sabores) ]
 
 
 # Diagrama de Casos de Uso
@@ -270,15 +270,13 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RF-001|X| | | | | | | | | |
 |RF-002| |X| |X| | | | | | |
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#if-sabores) ]
 
 # Diagrama de Classes
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#if-sabores) ]
 
 # Diagrama de Sequências
-
-[ [INÍCIO](#fibonacci-management-system) ]
 
 [ [INÍCIO](#if-sabores) ]
 
