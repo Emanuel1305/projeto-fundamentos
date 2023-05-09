@@ -1,5 +1,5 @@
 <img src='/img/1.png' alt='logo da empresa' width='150px' heidth='150px'/>
-
+# INÍCIO
 # *IF Sabores*
 
 # PROJETO DE SOFTWARE
@@ -178,7 +178,7 @@ Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretor
 # Metodologia Adotada no Desenvolvimento
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#início) ]
 
 # Requisitos do Software
 
