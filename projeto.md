@@ -61,16 +61,11 @@ Este documento destina-se aos clientes, engenheiros, gerentes e demais stakehold
 
 ## CONCEPÇÃO DO SISTEMA
 
-Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
-* Entrevista:
-  * Discussões individuais de um representante da equipe com José de Arimatéia, diretor da Escola Fibonacci.
-* Consulta com especialista:
-  * Gustavo, coordenador de pós-graduação do curso de Ciências Contábeis da Universidade Federal orientou na concepção do sistema devido sua experiência em trabalhar em cursos semipresenciais e ser um dos consultores da empresa;
-  * Alex Sandro Gomes, professor do Centro de Informática da Universidade Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
-  * Silvio Zanchetti, coordenador do curso on-line ITUC/AL, foi outro entrevistado;
-  * Manasses dos Santos Silva, responsável pelo treinamento dos funcionários do laboratório HEXAL BRASIL.
-* Prototipação:
-  * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
+Foram usados dois métodos para que pudessem ser obtidos os requisitos do sistema:
+* Pesquisas:
+  * Uso de pesquisas em sites similares para verificar os requsitos que precisamos implementar em nosso programa.
+* Consultas com professores:
+  * Wagner da Silva Ferreira Filho, professor do Instituto Federal de Rondônia - Campus Vilhena orientou na concepção do sistema devido sua experiência em auxiliar alunos na área técnica em informática;
 
 
 
