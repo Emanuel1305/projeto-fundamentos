@@ -8,12 +8,12 @@
 
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Emanuel Victor Marcelo Fagundes|Implementador / Programador|[emanuelfafa1313@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBmXHnZdWLjVGhKVgNlZdSKhdhgmrwwSLTBVnNgwzhhDlBHDwKXNHtRVRskHkcjKFWwBTtC)|
-|Henrique Araujo de Oliveira |Especificador de Requisitos / Analista de Requisitos|henriquearaujodeoliveira1@gmail.com|
-|Leonardo Neiva Lopes|Analista de teste|leokjlps@gmail.com|
-|Gabriel Teles de Andrade|Testador de Software|gabrieltelesdeandradett@gmail.com|
-|Luiz Guilhermy Moretti de Oliveira|Coordenador de projeto / Gerente de Projeto|luizguilhermy83302@gmail.com|
-|Adrielle Morini Freitas|Designer de interface com o usuário|adriellemorini@gmail.com|
+|Emanuel Victor Marcelo Fagundes|Implementador / Programador|[emanuelfafa1313@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRlQzLpWvjCkNvwSwXktzMNtvqRdQJmsXVggGnsHRvzHQxZsDBgntvFvLFtkBSCxPhjJqHG)|
+|Henrique Araujo de Oliveira |Especificador de Requisitos / Analista de Requisitos|[henriquearaujodeoliveira1@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWsCQfzdrmRHJBSWgsBqTnQLsMJnnDJlJMKdNdTMgNdThHWgzgfgGbwpNCxnDKxfCPqmlpNkL)|
+|Leonardo Neiva Lopes|Analista de teste|[leokjlps@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRrlHzvjrbChnPFHPSjTpWqPjMtqJGLxjVhlQKpqJGLCDHCggjBpXPmTNmJmCdHBzghBKqV)|
+|Gabriel Teles de Andrade|Testador de Software|[gabrieltelesdeandradett@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWtDtZMNKMfktWTFfsblVVxdXHZPHDQzTqVRhPvLvQKCpvBPktrZPMDBhnDtlgqhzMdRpWpKQ)|
+|Luiz Guilhermy Moretti de Oliveira|Coordenador de projeto / Gerente de Projeto|[luizguilhermy83302@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGMGMrDLFjKlXvvwvQmGjCDpNpqBwhjldQwznfnmQjPqdMNvNBzqFhkJldqBqCbHNLprCZC)|
+|Adrielle Morini Freitas|Designer de interface com o usuário|[adriellemorini@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfrtMfkxqkTMqNpxTSVlpKlbkgVRChBvrjTgKcMwfZbdrgJBWbjQGbkStlsQjXFJJXmnwg)|
 # Sumário
 
 * [RESUMO DO PROJETO](#resumo-do-projeto)
