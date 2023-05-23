@@ -113,19 +113,17 @@ Não fazem parte do escopo do projeto:
 
 ### Abrangência:
 
-O sistema irá conter ferramentas para construção de um plano de aulas que esteja de acordo com os objetivos e metodologia de uma turma ministrada pelo professor. O professor através de ferramentas (como Chat, Fórum, Base de Documentos) irá montar o programa desta disciplina que deverá ser seguido pelo aluno usuário do sistema. O professor terá a liberdade de criar atividades (textos e questionários) e determinar prazos a serem cumpridos pelos alunos. Serão armazenadas as resoluções dos alunos para serem corrigidas pelo professor posteriormente, gerando estatísticas do desempenho de cada aluno e da turma. O sistema também irá prover o gerenciamento das entidades que compõem a instituição e os usuários do sistema.
+O programa IF Sabores oferece uma variedade de ferramentas para a criação e compartilhamento de receitas deliciosas. Os usuários podem explorar e contribuir com um catálogo de receitas, adaptando-as de acordo com seus gostos e preferências. O programa permite aos usuários criar seus próprios perfis, interagir com outros entusiastas da culinária e participar de desafios culinários emocionantes.
 
 Dentre as ferramentas de comunicação do sistema existirão as assíncronas, como Chat, onde poderão ser feitas reuniões, discussões, explicações conjuntas ou qualquer outra atividade de comunicação. O Fórum consiste na ferramenta síncrona usada para os mesmos fins do Chat.
 
 Das ferramentas de planejamento podemos citar:
 
-* **Avaliações e Exercícios:** serão criadas tarefas a serem entregues pelos alunos nos determinados prazos;
+* **Catálogo de Receitas:** Explore uma variedade de receitas de diferentes culinárias;
 
-* **Anúncios:** espaço para criação de avisos e informes aos alunos de uma determinada turma;
+* **Criação de Receitas Personalizadas:** Crie suas próprias receitas e compartilhe com a comunidade;
 
-* **Manipulação de Arquivos:** haverá um diretório onde podem ser acumulados arquivos de diversos tipos pelos usuários;
-
-* **Planejamento de Aulas:** planejamento de uma aula estruturada com leituras e exercícios.
+* **Avaliação de Receitas e Estatísticas:** Avalie as receitas, veja estatísticas de desempenho e descubra as mais populares;
 
 ### Sistemas similares:
 
