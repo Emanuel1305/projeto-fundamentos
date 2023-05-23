@@ -115,9 +115,7 @@ Não fazem parte do escopo do projeto:
 
 O programa IF Sabores oferece uma variedade de ferramentas para a criação e compartilhamento de receitas deliciosas. Os usuários podem explorar e contribuir com um catálogo de receitas, adaptando-as de acordo com seus gostos e preferências. O programa permite aos usuários criar seus próprios perfis, interagir com outros entusiastas da culinária e participar de desafios culinários emocionantes.
 
-Dentre as ferramentas de comunicação do sistema existirão as assíncronas, como Chat, onde poderão ser feitas reuniões, discussões, explicações conjuntas ou qualquer outra atividade de comunicação. O Fórum consiste na ferramenta síncrona usada para os mesmos fins do Chat.
-
-Das ferramentas de planejamento podemos citar:
+Das ferramentas do programa podemos citar:
 
 * **Catálogo de Receitas:** Explore uma variedade de receitas de diferentes culinárias;
 
