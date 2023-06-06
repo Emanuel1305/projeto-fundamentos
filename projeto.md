@@ -222,7 +222,6 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ![Imagem do Protótipo](/img/home.PNG)
 ![Imagem do Protótipo](/img/cadastro.PNG)
-![Imagem do Protótipo](/img/bolo.PNG)
 
 [ [INÍCIO](#if-sabores) ]
 
