@@ -179,8 +179,8 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-005|Recomendar Itens|Mensagem recomendando um item relacionado às pesquisas recentes|
 |RF-006|Receitas via E-mail|Permite ao usuário receber receitas através do e-mail cadastrado|
 |RF-007|Filtrar Receitas|Deve ser possível filtrar as receitas por tempo de preparo, dificuldade, número de porções, etc|
-|RF-008|Manter uma Organização|As receitas devem ser apresentadas de forma clara e organizada, com lista de ingredientes, modo de preparo e foto|
-|RF-009|Salvar Receitas|O usuário deve ter a opção de salvar suas receitas favoritas em uma lista de favoritos|
+|RF-008|Manter site|Os usuários e receitas podem ser atualizados de acordo com o admnistrador com base em atualizações|
+|RF-009|Aceitar Receitas|Quando um usuário deseja enviar suas receitas, o(s) aministrador(es), rá avalia-la e decidir aceitar ou não|
 |RF-010|Compartilhar Receitas|Deve ser possível compartilhar receitas por e-mail ou em redes sociais|
 |RF-011|Avaliar Receitas|Os usuários devem ser capazes de avaliar as receitas e deixar comentários avaliativos|
 |RF-012|Classificar Receitas|Deve haver um sistema de classificação de receitas, com base nas avaliações dos usuários|
@@ -188,7 +188,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-014|Imprimir Receitas|Os usuários devem poder imprimir as receitas em um formato fácil de ler|
 |RF-015|Oferecer Dicas|O site deve oferecer dicas e truques de culinária para ajudar os usuários a melhorar suas habilidades na cozinha|
 |RF-016|Sugerir Receitas|O site deve oferecer sugestões de receitas com base nos ingredientes que o usuário tem em casa|
-|RF-017|Criar Albuns|O site deve permitir que os usuários criem coleções de receitas com base em diferentes temas, como receitas de verão, receitas para crianças, receitas para churrasco, entre outros|
+|RF-017|Criar Albuns|O site deve permitir que os usuários criem coleções de receitas salvando-as, com base em diferentes temas, como receitas de verão, receitas para crianças, receitas para churrasco, entre outros|
 |RF-019|Visualizar Receitas|Deve ser possível visualizar receitas em modo de apresentação, com instruções passo a passo e imagens ilustrativas para facilitar o entendimento|
 |RF-020|Baixar Receitas|Permite ao usuário a realizar upload de receitas para a visualização off-line|
 
