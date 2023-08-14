@@ -227,7 +227,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |UC-01 - Enviar suas Receitas|           
 |:---|
 |**Descrição/Objetivo:** Permite sugerir a inclusão de novas receitas ao site|
-|**Atores: Administrador**|
+|**Atores: Usuários**|
 |**Pré-condições:** O usuário precisa estar cadastrado e logado|
 |**Pós-condições:** Será apresentada uma mensagem confirmando a realização do do envio a administração|
 |**FLUXO PRINCIPAL / BÁSICO:**|
