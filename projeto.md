@@ -222,26 +222,25 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ## Descrição / Especificação dos Casos de Uso
 
-### UC-01 - Cadastrar Professor
+### UC-01 - Enviar suas Receitas
 
-|UC-01 - Cadastrar Professor|           
+|UC-01 - Enviar suas Receitas|           
 |:---|
-|**Descrição/Objetivo:** Permite a inclusão de novos professores no Sistema|
+|**Descrição/Objetivo:** Permite sugerir a inclusão de novas receitas ao site|
 |**Atores: Administrador**|
 |**Pré-condições:** O usuário precisa estar cadastrado e logado|
-|**Pós-condições:** Será apresentada uma mensagem confirmando a realização do cadastro|
+|**Pós-condições:** Será apresentada uma mensagem confirmando a realização do do envio a administração|
 |**FLUXO PRINCIPAL / BÁSICO:**|
-|1. O usuário seleciona a opção cadastrar professor|
-|2. Os dados do professor são inseridos|
-|3. O usuário clica em salvar|
-|4. Um novo ID é gerado |
-|5. É apresentada uma mensagem confirmando a realização do cadastro|
+|1. O usuário seleciona a opção enviar sua receita|
+|2. O modo de preparo e ingredientes são informados|
+|3. O usuário clica em enviar|
+|4. Uma mensagem de "foi enviado com sucesso" é imprimido na tela|
 |**FLUXOS ALTERNATIVOS / EXCESSÕES:** |
 |**A1: Campo obrigatório não preenchido** |
 |1. Uma mensagem será apresentada para o usuário, informando que existe(m) campos obrigatórios que não foram preenchidos |
 |2. O cursor será posicionado no primeiro campo obrigatório que não foi preenchido |
-|**A2: Data de nascimento inválida** |
-|1. Uma mensagem será apresentada para o usuário, informando que a data informáda não é válida|
+|**A2: Pré credenciais** |
+|1. Uma mensagem será apresentada para o usuário, informando que a quantidade não é válida|
 |2. O cursor será posicionado para o campo data|
 
 
