@@ -241,7 +241,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |2. O cursor será posicionado no primeiro campo obrigatório que não foi preenchido |
 |**A2: Pré credenciais** |
 |1. Uma mensagem será apresentada para o usuário, informando que a quantidade não é válida|
-|2. O cursor será posicionado para o campo data|
+|2. O cursor será posicionado para o campo com a crendencial inválida|
 
 
 ## Matriz de Rastreabilidade
