@@ -180,7 +180,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-006|Receitas via E-mail|Permite ao usuário receber receitas através do e-mail cadastrado|
 |RF-007|Filtrar Receitas|Deve ser possível filtrar as receitas por tempo de preparo, dificuldade, número de porções, etc|
 |RF-008|Manter site|Os usuários e receitas podem ser atualizados de acordo com o admnistrador com base em atualizações|
-|RF-009|Aceitar Receitas|Quando um usuário deseja enviar suas receitas, o(s) aministrador(es), rá avalia-la e decidir aceitar ou não|
+|RF-009|Aceitar Receitas|Quando um usuário deseja enviar suas receitas, o(s) administrador(es), irá avalia-la e decidir aceitar ou não|
 |RF-010|Compartilhar Receitas|Deve ser possível compartilhar receitas por e-mail ou em redes sociais|
 |RF-011|Avaliar Receitas|Os usuários devem ser capazes de avaliar as receitas e deixar comentários avaliativos|
 |RF-012|Classificar Receitas|Deve haver um sistema de classificação de receitas, com base nas avaliações dos usuários|
