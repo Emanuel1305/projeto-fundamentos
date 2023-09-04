@@ -255,6 +255,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 [ [INÍCIO](#if-sabores) ]
 
 # Diagrama de Classes
+![Diagrama de Classes](/img/at.png)
 
 [ [INÍCIO](#if-sabores) ]
 
