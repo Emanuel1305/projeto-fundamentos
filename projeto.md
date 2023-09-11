@@ -249,10 +249,28 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |UC-Gerenciar Setores|UC-Manter Site|UC-Aceitas Receitas|UC-Realizar Pesquisa|UC-Filtrar Receitas|UC-Compartilhar|UC-Logar|UC-Avaliar|UC-Visualizar Receitas|UC-Imprimir Receitas|UC-Baixar Receitas|UC-Criar Albuns|UC-Sugerir Receitas|UC-Comentar|UC-Enviar E-mail|
+| REQUISITO |1Gerenciar Setores|2Manter Site|3Aceitas Receitas|4Realizar Pesquisa|5Filtrar Receitas|6Compartilhar|7Logar|8Avaliar|9Visualizar Receitas|10Imprimir Receitas|11Baixar Receitas|12Criar Albuns|13Sugerir Receitas|14Comentar|15Enviar E-mail|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001|X| | | | | | | | | | | | | | |
-|RF-002| |X| |X| | | | | | | | | | | |
+|RF-001| |X| | | | | | | | | | | | | |
+|RF-002| | | |X| | | | | | | | | | | |
+|RF-003| | | | | | |X| | | | | | | | |
+|RF-004| | | | | | | | | | | | | | | |
+|RF-005| | | | | | | | | | | | | | |X|
+|RF-006| | | | | | | | | | | | | | |X|
+|RF-007| | | | |X| | | | | | | | | | |
+|RF-008| |X| | | | | | | | | | | | | |
+|RF-009| | |X| | | | | | | | | | | | |
+|RF-010| | | | | |X| | | | | | | | | |
+|RF-011| | | | | | | |X| | | | | | | |
+|RF-012| | | | | | | | | | | | | | | |
+|RF-013| | | | | |X| | | | | | | | | |
+|RF-014| | | | | | | | | | | | | | | |
+|RF-015| | | | | | | | | | | | | | | |
+|RF-016| | | | | | | | | | | | |X| | |
+|RF-017| | | | | | | | | | | |X| | | |
+|RF-018| | | | | | | | | | | | | | | |
+|RF-019| | | | | | | | | | | | | | | |
+|RF-020| | | | | | | | | | | | | | | |
 
 [ [INÍCIO](#if-sabores) ]
 
