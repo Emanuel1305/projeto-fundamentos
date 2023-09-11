@@ -249,7 +249,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |1Gerenciar Setores|2Manter Site|3Aceitas Receitas|4Realizar Pesquisa|5Filtrar Receitas|6Compartilhar|7Logar|8Avaliar|9Visualizar Receitas|10Imprimir Receitas|11Baixar Receitas|12Criar Albuns|13Sugerir Receitas|14Comentar|15Enviar E-mail|
+| REQUISITO |Gerenciar Setores|Manter Site|Aceitas Receitas|Realizar Pesquisa|Filtrar Receitas|Compartilhar|Logar|Avaliar|Visualizar Receitas|Imprimir Receitas|Baixar Receitas|Criar Albuns|Sugerir Receitas|Comentar|Enviar E-mail|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |RF-001| |X| | | | | | | | | | | | | |
 |RF-002| | | |X| | | | | | | | | | | |
