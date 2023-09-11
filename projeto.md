@@ -249,7 +249,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |UC-01|UC-02|UC-03|UC-04|UC-05|UC-06|UC-07|UC-08|UC-09| UC-10|     
+| REQUISITO |UC-Gerenciar Setores|UC-Manter Site|UC-Aceitar Receitas|UC- Realizar Pesquisa|UC-Filtrar Receitas|UC-Compartilhar|UC-Logar|UC-Avaliar|UC-Visualizar Receitas|UC-Imprimir Receitas|UC-Baixar Receitas|UC-Criar Albuns|UC-Sugerir Receitas|UC-Comentar|     
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |RF-001|X| | | | | | | | | |
 |RF-002| |X| |X| | | | | | |
