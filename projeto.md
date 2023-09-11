@@ -144,21 +144,23 @@ Os usuários devem utilizar um computador com a seguinte configuração mínima:
 Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é possível compreender melhor o projeto do sistema proposto para elaborar o estudo de viabilidade com os seguintes destaques:
 
 ## Viabilidade Técnica
-Os colaboradores da empresa contratante possuem bastante experiência com aplicações desta natureza, os analistas também estão familiarizados com esta área de aplicação comercial, porém o sistema utiliza uma tecnologia nova, com a qual os analistas e programadores não estão familiarizados. No que se refere ao tamanho do sistema, trata-se de um projeto de médio porte, com baixo nível de complexidade, que não será integrado a outros sistemas, limitando-se a atender a demanda da escola no que se refere à EaD, que, atualmente possui 1.000 alunos matriculados. Conclui-se que o projeto possui viabilidade técnica, em virtude dos baixos riscos identificados.
+
+Os colaboradores da empresa contratante não possuem bastante experiência com aplicações desta natureza, os analistas também não estão familiarizados com esta área de aplicação comercial. No que se refere ao tamanho do sistema, trata-se de um projeto de pequeno porte, com baixo nível de complexidade, que não será integrado a outros sistemas, limitando-se a atender a demanda de usuarios proucurando por receitas. Conclui-se que o projeto não possui viabilidade técnica, em virtude de altos riscos identificados.
 
 ## Viabilidade Econômica
 
-Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conservadoras do retorno sobre o investimento e dos benefícios totais, este projeto é viável economicamente. Após a implantação, espera-se uma melhoria na qualidade dos serviços prestados e aumento da capacidade de vagas da unidade escolar.
+Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conservadoras do retorno sobre o investimento e dos benefícios totais, este projeto não é viável economicamente. Após a implantação, espera-se uma melhoria na qualidade dos serviços prestados, porém no cenário atual, visando que o site não trabalharia com serviços de anuncio e não possui nenhum patrocinio a aplicação não seria viável.
 
 ## Viabilidade Organizacional
 
-Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
+Do ponto de vista organizacional, este projeto apresenta baixo risco. Espera-se que os usuarios aprovem a implantação do sistema, visto que atualmente ele possui uma interface simples e auto-explicativa, facilitando o uso da aplicação.
 
 
 [ [INÍCIO](#if-sabores) ]
 
 # Metodologia Adotada no Desenvolvimento
 
+Proucuraremos utilizar o modelo **Cascata** para desenvolver nosso sistemas, pois possui uma sequência linear de fases oque torna mais fácil para os desenvolvedores acompanharem o progresso do projeto.
 
 [ [INÍCIO](#if-sabores) ]
 
