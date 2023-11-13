@@ -280,6 +280,11 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 [ [INÍCIO](#if-sabores) ]
 
 # Diagrama de Sequências
+![Diagrama de Sequências](/img/aprovar.png)
+![Diagrama de Sequências](/img/avaliar.png)
+![Diagrama de Sequências](/img/criarconta.png)
+![Diagrama de Sequências](/img/entrar.png)
+![Diagrama de Sequências](/img/enviarreceita.png)
 
 [ [INÍCIO](#if-sabores) ]
 
