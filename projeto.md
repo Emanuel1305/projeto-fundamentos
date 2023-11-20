@@ -287,9 +287,9 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ![Diagrama de Sequências](/img/enviarreceita.png)
 
 [ [INÍCIO](#if-sabores) ]
-![Diagrama de Atividade](/img/d.png)
-# Diagrama de Atividades
 
+# Diagrama de Atividades
+![Diagrama de Atividade](/img/d.png)
 
 # REFERÊNCIAS
 
